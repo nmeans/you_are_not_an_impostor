@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScappleDocument Version="1.1" ID="48DBF95C-6771-49F5-93C4-73ED20EFD026">
+    <Notes>
+        <Note ID="1" FontSize="12.0" Position="276.664062,72.946615" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.444599 0.214525 0.978366</Border>
+                <Fill>0.809302 0.734892 0.999343</Fill>
+            </Appearance>
+            <String>Most don’t label themselves as impostors</String>
+            <ConnectedNoteIDs>116</ConnectedNoteIDs>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="544.479167,2.308594" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.444599 0.214525 0.978366</Border>
+                <Fill>0.809302 0.734892 0.999343</Fill>
+            </Appearance>
+            <String>Impostors want to succeed but are afraid they can’t.</String>
+            <ConnectedNoteIDs>116</ConnectedNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="318.542969,9.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.444599 0.214525 0.978366</Border>
+                <Fill>0.809302 0.734892 0.999343</Fill>
+            </Appearance>
+            <String>Impostors work hard to prove themselves wrong.</String>
+            <ConnectedNoteIDs>116</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="1240.953125,449.766276" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Success leads to fear of inability to continue the same level of success.</String>
+            <ConnectedNoteIDs>6, 72</ConnectedNoteIDs>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="1248.840495,506.292318" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Interferes with ability to enjoy success.</String>
+            <ConnectedNoteIDs>4</ConnectedNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="598.88151,90.470703" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.444599 0.214525 0.978366</Border>
+                <Fill>0.809302 0.734892 0.999343</Fill>
+            </Appearance>
+            <String>Abnormal amount of doubt and anxiety.</String>
+            <ConnectedNoteIDs>116</ConnectedNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="471.3125,174.729167" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.444599 0.214525 0.978366</Border>
+                <Fill>0.809302 0.734892 0.999343</Fill>
+            </Appearance>
+            <String>Sometimes feel like it’d be easier to be found out to be a fraud than to continue the charade.</String>
+            <ConnectedNoteIDs>116</ConnectedNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="713.783203,329.760417" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Acutely aware of deficiencies that exist in their knowledge.</String>
+            <ConnectedNoteIDs>109</ConnectedNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="829.897786,404.435547" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Dismiss value of things they know and focus on gaps.</String>
+            <ConnectedNoteIDs>109</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="506.236979,300.545573" Width="180.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Over-value skills and knowledge of those around them, ignoring shortcomings.</String>
+            <ConnectedNoteIDs>109</ConnectedNoteIDs>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="742.679036,463.320312" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Remember difficult times far more than successes or easy tasks</String>
+            <ConnectedNoteIDs>109</ConnectedNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="272.63151,956.304036" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Tend to overwork or procrastinate in an effort to achieve unrealistic standards or give themselves an excuse</String>
+            <ConnectedNoteIDs>39, 48</ConnectedNoteIDs>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="984.335937,665.005859" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Were usually labeled as ‘special’, ‘smart’, or ‘the best’ during critical formative years.</String>
+            <ConnectedNoteIDs>29, 55, 110</ConnectedNoteIDs>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="1029.759766,1036.196615" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Consider themselves failures if not ‘the best’ at a given skill/domain.</String>
+            <ConnectedNoteIDs>16, 61</ConnectedNoteIDs>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="1027.759766,1099.196615" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Sometimes avoid difficult tasks out of fear of failure.</String>
+            <ConnectedNoteIDs>15</ConnectedNoteIDs>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="1320.691406,891.38151" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Expect to be able to do everything they try perfectly in a short amount of time.</String>
+            <ConnectedNoteIDs>57, 61</ConnectedNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="691.134115,705.005859" Width="91.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.98806 0.315936 0.08648</Border>
+                <Fill>0.97962 0.73559 0.401558</Fill>
+            </Appearance>
+            <String>Fear of Failure</String>
+            <ConnectedNoteIDs>19, 54, 56, 58, 73</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,15</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="770.63151,766.197266" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.98806 0.315936 0.08648</Border>
+                <Fill>0.97962 0.73559 0.401558</Fill>
+            </Appearance>
+            <String>Go to great lengths to avoid failing or appearing foolish in front of others.</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="995.988281,61.530599" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Extremely skilled at discounting and/or dismissing objective evidence of their success.</String>
+            <ConnectedNoteIDs>21, 62-63, 65, 86</ConnectedNoteIDs>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="1006.123698,163.041016" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Have difficulty accepting a compliment gracefully.</String>
+            <ConnectedNoteIDs>20, 68</ConnectedNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="1189.583984,371.409505" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Sometimes have fear of success, especially when more successful than those that are close to them.</String>
+            <ConnectedNoteIDs>72</ConnectedNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="580.805339,1109.969401" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Make excellent first impressions and hide their perceived weakness well.</String>
+            <ConnectedNoteIDs>25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="580.358724,972.935547" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Tend to be introverted, and spend a lot of time in self-reflection and self-criticism.</String>
+            <ConnectedNoteIDs>25, 112</ConnectedNoteIDs>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="580.38151,1036.916667" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Often perceived as extroverts because of carefully-crafted ability to put on a face.</String>
+            <ConnectedNoteIDs>23-24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="453.393229,402.464844" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Rarely experience joy, satisfaction, and sense of accomplishment that come with success.</String>
+            <ConnectedNoteIDs>27, 109</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="456.549479,462.494141" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Tend to nitpick themselves and focus on negative even when successful.</String>
+            <ConnectedNoteIDs>26</ConnectedNoteIDs>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="275.664062,125.946615" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.444599 0.214525 0.978366</Border>
+                <Fill>0.809302 0.734892 0.999343</Fill>
+            </Appearance>
+            <String>Tend to hide their impostor thoughts and be ashamed of them.</String>
+            <ConnectedNoteIDs>116</ConnectedNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="1001.23763,744.291667" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Sometimes feel like their perceived intelligence is the only reason people like/love them, so high stakes game to keep up appearances</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="30" FontSize="12.0" Position="1237.785807,655.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Success is sometimes taken for granted by family, so sufferers develop need for extreme success to be noticed.</String>
+            <ConnectedNoteIDs>31, 110</ConnectedNoteIDs>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="1237.785807,753.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Families are sometimes extremely critical, so perfect performance becomes the only acceptable effort.</String>
+            <ConnectedNoteIDs>30</ConnectedNoteIDs>
+        </Note>
+        <Note ID="32" FontSize="12.0" Position="1029.0,452.260417" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Difference in how parents perceive the child vs. how the world perceives the child.</String>
+            <ConnectedNoteIDs>110</ConnectedNoteIDs>
+        </Note>
+        <Note ID="33" FontSize="12.0" Position="789.01888,21.8125" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Attribute success to luck/timing/duplicity and failure to personal faults.</String>
+            <ConnectedNoteIDs>86</ConnectedNoteIDs>
+        </Note>
+        <Note ID="34" FontSize="12.0" Position="28.183594,834.281901" Width="120.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>The Impostor Cycle</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,18</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="35" FontSize="12.0" Position="28.183594,862.281901" Width="135.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>1. Invitation/Opportunity</String>
+        </Note>
+        <Note ID="36" FontSize="12.0" Position="28.183594,890.281901" Width="84.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>2. Acceptance</String>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="28.183594,918.281901" Width="113.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>3. Initial Excitement</String>
+        </Note>
+        <Note ID="38" FontSize="12.0" Position="28.183594,946.281901" Width="155.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>4. Building dread/worry/fear</String>
+            <ConnectedNoteIDs>46</ConnectedNoteIDs>
+        </Note>
+        <Note ID="39" FontSize="12.0" Position="28.183594,974.281901" Width="199.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>5. Procrastination *or* Intense Work</String>
+            <ConnectedNoteIDs>13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="40" FontSize="12.0" Position="28.183594,1002.281901" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>6. Success!</String>
+        </Note>
+        <Note ID="41" FontSize="12.0" Position="28.183594,1030.281901" Width="84.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>7. Initial Relief</String>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="28.183594,1058.281901" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>8. Nitpicking / Focus on small negatives</String>
+        </Note>
+        <Note ID="43" FontSize="12.0" Position="28.183594,1100.281901" Width="118.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>9. Denial of Success</String>
+        </Note>
+        <Note ID="44" FontSize="12.0" Position="28.183594,1128.281901" Width="47.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Repeat</String>
+        </Note>
+        <Note ID="46" FontSize="12.0" Position="273.334635,879.434245" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Superstitious belief that if they don’t follow the worry/doubt/anxiety/fear cycle that they won’t be able to succeed.</String>
+            <ConnectedNoteIDs>38</ConnectedNoteIDs>
+        </Note>
+        <Note ID="48" FontSize="12.0" Position="270.958984,1036.660807" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Overwork causes the impostor to be less effective than they would otherwise be if they were working an adequate amount on a project.</String>
+            <ConnectedNoteIDs>13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="54" FontSize="12.0" Position="508.328776,607.005859" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.98806 0.315936 0.08648</Border>
+                <Fill>0.97962 0.73559 0.401558</Fill>
+            </Appearance>
+            <String>Avoid failure at all costs, even though they know intellectually that failure is a necessary part of life.</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="55" FontSize="12.0" Position="920.0,543.678385" Width="176.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Because of this they expect to remain the most outstanding for their whole lives.</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="56" FontSize="12.0" Position="733.828776,609.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.98806 0.315936 0.08648</Border>
+                <Fill>0.97962 0.73559 0.401558</Fill>
+            </Appearance>
+            <String>Need to be the best prevents them from trying anything they’re not certain they can be the best at.</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="1332.210286,970.696615" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Experience extreme anxiety along with a threat to the essence of their being when they find something that’s not immediately easy for them.</String>
+            <ConnectedNoteIDs>17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="58" FontSize="12.0" Position="512.242187,742.624349" Width="147.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.98806 0.315936 0.08648</Border>
+                <Fill>0.97962 0.73559 0.401558</Fill>
+            </Appearance>
+            <String>Fear of failure squelches spontaneity and creativity.</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="59" FontSize="12.0" Position="794.992839,915.198568" Width="175.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Have trouble distinguishing between which projects require excellence and which require minimal effort and quality.</String>
+            <ConnectedNoteIDs>61</ConnectedNoteIDs>
+        </Note>
+        <Note ID="60" FontSize="12.0" Position="1143.548177,957.463542" Width="184.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>The thought of easing up and expecting less of themselves can cause panic.</String>
+            <ConnectedNoteIDs>61</ConnectedNoteIDs>
+        </Note>
+        <Note ID="61" FontSize="12.0" Position="1049.0,895.0" Width="88.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Perfectionism</String>
+            <ConnectedNoteIDs>15, 17, 59-60, 75, 113</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="62" FontSize="12.0" Position="1276.822266,13.11849" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Unable to hear and believe the compliments and praise of others.</String>
+            <ConnectedNoteIDs>20</ConnectedNoteIDs>
+        </Note>
+        <Note ID="63" FontSize="12.0" Position="1208.285807,85.486979" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Can’t accept objective evidence of their capability or success.</String>
+            <ConnectedNoteIDs>20, 67, 69-70, 84</ConnectedNoteIDs>
+        </Note>
+        <Note ID="65" FontSize="12.0" Position="851.270182,137.963542" Width="169.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Think they have others fooled.</String>
+            <ConnectedNoteIDs>20, 66</ConnectedNoteIDs>
+        </Note>
+        <Note ID="66" FontSize="12.0" Position="837.485677,213.166667" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Don’t realize that they’re doubting the intelligence of the very people they look up to by assuming they have them fooled.</String>
+            <ConnectedNoteIDs>65</ConnectedNoteIDs>
+        </Note>
+        <Note ID="67" FontSize="12.0" Position="1169.48112,209.01888" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>More plausible in their minds that those judging them made an error than it is that compliments/accolades are valid.</String>
+            <ConnectedNoteIDs>63</ConnectedNoteIDs>
+        </Note>
+        <Note ID="68" FontSize="12.0" Position="982.685547,282.535156" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Compliments cause embarrassment and deep discomfort. Often change the subject quickly.</String>
+            <ConnectedNoteIDs>21</ConnectedNoteIDs>
+        </Note>
+        <Note ID="69" FontSize="12.0" Position="1332.783854,146.470703" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Sometimes believe the things they’re able to accomplish must not be very important or difficult to do.</String>
+            <ConnectedNoteIDs>63</ConnectedNoteIDs>
+        </Note>
+        <Note ID="70" FontSize="12.0" Position="1494.675781,5.091146" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Superstitious belief that if they accept the praise/compliments, they’ll be unable to continue to succeed.</String>
+            <ConnectedNoteIDs>63</ConnectedNoteIDs>
+        </Note>
+        <Note ID="71" FontSize="12.0" Position="1651.404948,317.277995" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Afraid that accepting praise for present accomplishments will result in expectation of same level of performance going forward. But if they consider it a fluke, it won’t be a letdown when they do fail eventually.</String>
+            <ConnectedNoteIDs>72</ConnectedNoteIDs>
+        </Note>
+        <Note ID="72" FontSize="12.0" Position="1481.0,321.0" Width="135.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Fear/Guilt re: Success</String>
+            <ConnectedNoteIDs>4, 22, 71, 74, 76, 98</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,22</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="73" FontSize="12.0" Position="556.085286,826.588542" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.98806 0.315936 0.08648</Border>
+                <Fill>0.97962 0.73559 0.401558</Fill>
+            </Appearance>
+            <String>Considering success a fluke pads the blow when failure eventually arrives.</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="74" FontSize="12.0" Position="1668.667969,222.147786" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Hide capability/knowledge/salary in order to be accepted by peers. Afraid success will make them an outcast.</String>
+            <ConnectedNoteIDs>72</ConnectedNoteIDs>
+        </Note>
+        <Note ID="75" FontSize="12.0" Position="823.539063,1019.058594" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>When praised, can only think of the errors they made and are painfully aware of how they could’ve done better.</String>
+            <ConnectedNoteIDs>61</ConnectedNoteIDs>
+        </Note>
+        <Note ID="76" FontSize="12.0" Position="1447.58724,449.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Despite fear of success, impostors want it badly.</String>
+            <ConnectedNoteIDs>72</ConnectedNoteIDs>
+        </Note>
+        <Note ID="77" FontSize="12.0" Position="1643.231771,508.166667" Width="119.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Common Sufferers</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,16</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="78" FontSize="12.0" Position="1643.231771,536.166667" Width="117.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Marginalized groups</String>
+        </Note>
+        <Note ID="79" FontSize="12.0" Position="1643.231771,564.166667" Width="141.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Highly successful people</String>
+            <ConnectedNoteIDs>83</ConnectedNoteIDs>
+        </Note>
+        <Note ID="80" FontSize="12.0" Position="1643.231771,592.166667" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>People in strongly peer-reviewed careers</String>
+        </Note>
+        <Note ID="81" FontSize="12.0" Position="1643.231771,634.166667" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>People in careers where work output can be easily judged by peers</String>
+        </Note>
+        <Note ID="83" FontSize="12.0" Position="1480.703125,527.763021" Width="139.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>70% of publicly successful people have experienced impostor feelings, especially those who were successful young.</String>
+            <ConnectedNoteIDs>79</ConnectedNoteIDs>
+        </Note>
+        <Note ID="84" FontSize="12.0" Position="1440.73763,90.713542" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Sometimes feel like they just got lucky.</String>
+            <ConnectedNoteIDs>63, 85</ConnectedNoteIDs>
+        </Note>
+        <Note ID="85" FontSize="12.0" Position="1561.32487,138.662109" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Ignores fact that they were clever enough to capitalize on whatever luck did come their way.</String>
+            <ConnectedNoteIDs>84</ConnectedNoteIDs>
+        </Note>
+        <Note ID="86" FontSize="12.0" Position="1028.327474,21.0" Width="136.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Reject Praise/Success</String>
+            <ConnectedNoteIDs>20, 33</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,21</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="87" FontSize="12.0" Position="1902.041016,72.755208" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Escape</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,6</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="88" FontSize="12.0" Position="1902.030599,101.211589" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Knowledge
+Most have never encountered a name for their symptoms or others who suffer from the same feelings.</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="89" FontSize="12.0" Position="1902.030599,171.211589" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Mindfulness
+Pay attention to your thoughts before, during, and after facing down a new challenge. See if you’re experiencing impostor symptoms.</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,12</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="91" FontSize="12.0" Position="1901.977865,380.871745" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Acceptance
+If you’ve experienced success in the past, allow yourself to believe that this success was valid. Trust what has actually happened rather than your feelings. Ask yourself what will happen if you accept positive feedback as truth.</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,10</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="93" FontSize="12.0" Position="1901.977865,506.871745" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Vulnerability
+When you interact with people, notice if you’re wearing a mask of false bravado. If so, be a little more vulnerable and see how people react. Start paying attention to which situations you’re able to be genuine in and which you feel the need to hide.</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="94" FontSize="12.0" Position="1901.977865,646.871745" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Ratchet
+If you find yourself freaking out about a task two weeks ahead of time, consciously decide to not let yourself dwell on it for more than a week ahead of time. You’ll likely find you succeed, not without worry, but with much less agony than normal.</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="95" FontSize="12.0" Position="1901.977865,772.871745" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Overcoming Perfectionism
+Pick a task that isn’t crucial and decide to do a less-than-perfect job. See what happens. The goal is not mediocrity. It’s learning when best efforts are required and when less will suffice. Ask yourself what might happen if you do a job less than perfectly.</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,24</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="97" FontSize="12.0" Position="1901.977865,268.871745" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Mindfulness 2
+Pay attention to how you react when someone pays you a compliment. Start being disciplined about accepting compliments gracefully rather than rejecting them.</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="98" FontSize="12.0" Position="1419.922526,236.20638" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Afraid that accepting success will make them arrogant.</String>
+            <ConnectedNoteIDs>72, 99</ConnectedNoteIDs>
+        </Note>
+        <Note ID="99" FontSize="12.0" Position="1218.0,293.376953" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Most impostors are sensitive, agreeable people. It’s unlikely that success will change their likable qualities.</String>
+            <ConnectedNoteIDs>98</ConnectedNoteIDs>
+        </Note>
+        <Note ID="101" FontSize="12.0" Position="1901.977865,912.871745" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Give Credit
+Understand that credit is not zero-sum. Working to give others around you credit for what they do well will help diminish your need to be the best (and the competitiveness and jealousy that come along with it).</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="102" FontSize="12.0" Position="1645.704427,730.529297" Width="78.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>How to Help</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="103" FontSize="12.0" Position="1645.704427,758.529297" Width="180.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Take doubts and fears seriously.</String>
+        </Note>
+        <Note ID="104" FontSize="12.0" Position="1645.704427,786.529297" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Ask probing questions to help them process. “What’s making you afraid you might fail?” instead of “That’s silly! You always do great!” “How likely is it that [worst case scenario] will happen? What if it does?”</String>
+        </Note>
+        <Note ID="105" FontSize="12.0" Position="1645.704427,884.529297" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Give very specific praise/compliments. Much harder for an impostor to write off.</String>
+        </Note>
+        <Note ID="106" FontSize="12.0" Position="1645.704427,940.529297" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Be specific in reassurance as well. “The audience really responded to your jokes in the last talk you gave.”</String>
+        </Note>
+        <Note ID="107" FontSize="12.0" Position="1645.704427,996.529297" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Ask for specific help on a task the impostor excels in. (Avdi Grimm)</String>
+        </Note>
+        <Note ID="108" FontSize="12.0" Position="1645.704427,1038.529297" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Help the impostor identify what they’re feeling. Many have no idea that it has a name and is common.</String>
+        </Note>
+        <Note ID="109" FontSize="12.0" Position="671.745443,383.653646" Width="157.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Accentuate Shortcomings</String>
+            <ConnectedNoteIDs>9-12, 26, 115</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,23</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="110" FontSize="12.0" Position="1097.0,595.393229" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Origins</String>
+            <ConnectedNoteIDs>14, 30, 32</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="112" FontSize="12.0" Position="648.0,940.869792" Width="78.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Introversion</String>
+            <ConnectedNoteIDs>24, 113</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,12</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="113" FontSize="12.0" Position="871.498047,855.02474" Width="73.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Personality</String>
+            <ConnectedNoteIDs>61, 112</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="115" FontSize="12.0" Position="658.359375,524.0" Width="141.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Reverse Dunning-Kruger</String>
+            <ConnectedNoteIDs>109</ConnectedNoteIDs>
+        </Note>
+        <Note ID="116" FontSize="12.0" Position="507.0,79.458984" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.444599 0.214525 0.978366</Border>
+                <Fill>0.809302 0.734892 0.999343</Fill>
+            </Appearance>
+            <String>General</String>
+            <ConnectedNoteIDs>1-3, 7-8, 28</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="117" FontSize="12.0" Position="243.0,307.194661" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.531484 0.869336 0.999151</Border>
+                <Fill>0.882547 0.968914 1.0</Fill>
+            </Appearance>
+            <String>Have to be able to sit with “feeling stupid” without giving up in order to learn new concepts.</String>
+            <ConnectedNoteIDs>122</ConnectedNoteIDs>
+        </Note>
+        <Note ID="118" FontSize="12.0" Position="35.0,280.583333" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.531484 0.869336 0.999151</Border>
+                <Fill>0.882547 0.968914 1.0</Fill>
+            </Appearance>
+            <String>Constantly under threat of peer review, so destruction always seems imminent.</String>
+            <ConnectedNoteIDs>122</ConnectedNoteIDs>
+        </Note>
+        <Note ID="119" FontSize="12.0" Position="10.466797,421.0" Width="156.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.531484 0.869336 0.999151</Border>
+                <Fill>0.882547 0.968914 1.0</Fill>
+            </Appearance>
+            <String>Interviews usually include a technical component, and sometimes that technical component is intentionally intimidating.</String>
+            <ConnectedNoteIDs>122</ConnectedNoteIDs>
+        </Note>
+        <Note ID="120" FontSize="12.0" Position="247.751953,430.080729" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.531484 0.869336 0.999151</Border>
+                <Fill>0.882547 0.968914 1.0</Fill>
+            </Appearance>
+            <String>Work in a field filled with minutae, so always acutely aware of what you don’t know, but what you do know seems easy.</String>
+            <ConnectedNoteIDs>122</ConnectedNoteIDs>
+        </Note>
+        <Note ID="121" FontSize="12.0" Position="159.811198,520.38737" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.531484 0.869336 0.999151</Border>
+                <Fill>0.882547 0.968914 1.0</Fill>
+            </Appearance>
+            <String>Some, but not all, developers struggle with social skills because they’ve spent so much time on the technical. Because of this, office politics can seem daunting.</String>
+            <ConnectedNoteIDs>122</ConnectedNoteIDs>
+        </Note>
+        <Note ID="122" FontSize="12.0" Position="115.853516,376.17513" Width="127.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.531484 0.869336 0.999151</Border>
+                <Fill>0.882547 0.968914 1.0</Fill>
+            </Appearance>
+            <String>Software Developers</String>
+            <ConnectedNoteIDs>117-121</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,19</FormatRange>
+            </Formatting>
+        </Note>
+    </Notes>
+    <BackgroundShapes>
+        <Shape ID="45" Sticky="Yes" Position="17.183594,818.281901" Width="222.0" Height="350.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="114" Sticky="Yes" Position="1631.01888,493.0" Width="222.0" Height="210.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="92" Sticky="Yes" Position="1881.030599,57.211589" Width="232.0" Height="1020.660156">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="111" Sticky="Yes" Position="1633.811198,716.0" Width="222.0" Height="392.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+    </BackgroundShapes>
+    <Stacks>
+        <Stack>34-44</Stack>
+        <Stack>77-81</Stack>
+        <Stack>87-89, 97, 91, 93-95, 101</Stack>
+        <Stack>102-108</Stack>
+    </Stacks>
+    <AutoFit>18, 34-41, 43-45, 61, 65, 72, 78-79, 86-87, 102-103, 109-116, 122</AutoFit>
+    <NoteStyles>
+        <Style Name="Black Outline" ID="170CE3C2-0032-48D2-98CD-ED06F07C8F1A" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>12.0</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>1</BorderThickness>
+            <Size>200.0,150.0</Size>
+        </Style>
+        <Style Name="Blue Bubble" ID="3BF666A4-FFBF-4C67-8D01-8AF6441FEEAD" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="7EA562DB-FE45-43AA-8598-81091F877600" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="0643E644-CA89-4873-9FDE-569A53C436D9" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882327 0.80198</FillColor>
+        </Style>
+        <Style Name="Orange Bubble" ID="D0F08116-91EB-4002-B534-1004264B3617" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>12.0</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.98806 0.315936 0.08648</BorderColor>
+            <FillColor>0.97962 0.73559 0.401558</FillColor>
+            <Size>200.0,150.0</Size>
+        </Style>
+        <Style Name="Pink Bubble" ID="F95D85D2-77E6-4644-85F3-CAF86318523D" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+        <Style Name="Purple Bubble" ID="9E6A3B6D-3AE8-4F5B-A559-168F2F1BE31C" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="No" AffectFade="No" AffectSticky="Yes">
+            <FontSize>12.0</FontSize>
+            <Alignment>Left</Alignment>
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.444599 0.214525 0.978366</BorderColor>
+            <FillColor>0.809302 0.734892 0.999343</FillColor>
+            <Size>200.0,150.0</Size>
+        </Style>
+        <Style Name="Red Text" ID="64766114-BDED-4A2C-BC0F-EBE41A07CC07" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="5E798BCB-A925-4DBB-90B6-1FA04A94F3CA" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Yellow Bubble" ID="B9BDCF3D-FAD4-4E32-BFC1-3C04F6997FD6" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
