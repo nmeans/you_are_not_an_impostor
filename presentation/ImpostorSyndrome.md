@@ -370,10 +370,10 @@ Jury's still out here. But I'm hopeful.
 
 ---
 
-### Impostor Sydrome and Technology
-# How it hurts us
+## Why It Matters To The Community
 
-![](images/3985108034_de0353ff4b_o.jpg)
+
+![](images/3387402198_8981b2367d_o.jpg)
 
 ---
 
